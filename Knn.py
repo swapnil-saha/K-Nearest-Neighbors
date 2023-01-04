@@ -6,6 +6,8 @@ import matplotlib.pyplot as plt
 
 import numpy as np
 
+#my change
+
 #Load the Data
 df = pd.read_csv("Classified Data",index_col=0)
 df.head()
